@@ -12,6 +12,13 @@ font-size: 15px;
 
     }
 
+    head{
+       border-bottom: solid 2px rgb(0, 155, 252);
+padding: 20px;
+font-size: 15px;
+ 
+    }
+
     section{
-        background: rgb(0, 115, 255);
+        background: rgb(0, 13, 255);
     }
