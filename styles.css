@@ -7,8 +7,9 @@ body{
 
     header{
 border-bottom: solid 2px rgb(0, 8, 252);
-font-size: 17px;
-padding: 13px;
+font-size: 19px;
+padding: 20px;
+background: rgb(0, 13, 255);
 
     }
 
@@ -16,12 +17,11 @@ padding: 13px;
        border-bottom: solid 2px rgb(0, 155, 252);
 padding: 10px;
 font-size: 15px;
-background: rgb(0, 13, 255) ;
  
     }
 
     section{
         background: rgb(0, 13, 255);
-      padding-bottom: 60px;  
-      padding-top: 60px;
+      padding-bottom: 70px;  
+      padding-top: 7px;
     }
