@@ -2,7 +2,7 @@ body{
     background: black;
     color:white;
     margin: 0px;
-    
+  font-family: "Lacquer", system-ui;
    }
 
     header{
@@ -29,6 +29,6 @@ margin-right: 20px;
       justify-content: center;
     }
 
-    chamada-texto{
+    .chamada-texto{
    margin-right: 20px;
     }
