@@ -7,7 +7,7 @@ body{
 
     header{
 border-bottom: solid 2px rgb(0, 8, 252);
-font-size: 19px;
+font-size: 20px;
 padding: 20px;
 background: rgb(0, 13, 255);
 
@@ -16,7 +16,7 @@ background: rgb(0, 13, 255);
     div{
        border-bottom: solid 2px rgb(0, 155, 252);
 padding: 10px;
-font-size: 15px;
+font-size: 19px;
 margin-right: 20px;
  
     }
