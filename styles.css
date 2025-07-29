@@ -1,20 +1,20 @@
 body{
-    background: black;
+    background: rgb(252, 0, 0);
     color:white;
     margin: 0px;
   font-family: "Lacquer", system-ui;
    }
 
     header{
-border-bottom: solid 2px rgb(0, 8, 252);
-font-size: 20px;
+border-bottom: solid 2px rgb(255, 0, 0);
+font-size: 18px;
 padding: 20px;
-background: rgb(0, 13, 255);
+background: rgb(0, 0, 0);
 
     }
 
     div{
-       border-bottom: solid 2px rgb(0, 155, 252);
+       border-bottom: solid 0px rgb(0, 0, 0);
 padding: 10px;
 font-size: 19px;
 margin-right: 20px;
@@ -22,7 +22,7 @@ margin-right: 20px;
     }
 
     section{
-        background: rgb(0, 13, 255);
+        background: rgb(0, 0, 0);
       padding-bottom: 70px;  
       padding-top: 7px;
       display: flex;
