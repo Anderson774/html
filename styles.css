@@ -33,6 +33,11 @@ margin-right: 20px;
     .chamada-texto{
    margin-right: 20px;
     }
+
+    img{
+      height:180px;
+      opacity: 0.5;
+    }
     
     .categoria-videos { 
      display: flex;
