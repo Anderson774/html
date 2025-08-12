@@ -42,5 +42,9 @@ margin-right: 20px;
      overflow-x: auto;
      gap: 8px;
     }
+
+   .categoria-videos img {
+  opacity: 0.5;
+   }
       
     
